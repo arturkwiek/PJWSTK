@@ -1,3 +1,42 @@
 [submodule "my_first_repo_GIT_3"]
 	path = my_first_repo_GIT_3
 	url = https://github.com/arturkwiek/my_first_repo_GIT_3.git
+[submodule "3_Python_pd5216"]
+	path = 3_Python_pd5216
+	url = https://github.com/arturkwiek/3_Python_pd5216.git
+[submodule "new_service"]
+	path = new_service
+	url = https://github.com/arturkwiek/new_service_PD5216.git
+[submodule "pd1234-DATAB-2"]
+	path = pd1234-DATAB-2
+	url = https://github.com/arturkwiek/pd1234-DATAB-2.git
+[submodule "pd5216_BSTS"]
+	path = pd5216_BSTS
+	url = https://github.com/arturkwiek/pd5216_BSTS.git
+[submodule "pd5216_Linux"]
+	path = pd5216_Linux
+	url = https://github.com/arturkwiek/pd5216_Linux.git
+[submodule "pd5216_R"]
+	path = pd5216_R
+	url = https://github.com/arturkwiek/pd5216_R.git
+[submodule "pd5216-DATAB-1"]
+	path = pd5216-DATAB-1
+	url = https://github.com/arturkwiek/pd5216-DATAB-1.git
+[submodule "pd5216-DATAB-2"]
+	path = pd5216-DATAB-2
+	url = https://github.com/arturkwiek/pd5216-DATAB-2.git
+[submodule "pd5216-DATAB-3"]
+	path = pd5216-DATAB-3
+	url = https://github.com/arturkwiek/pd5216-DATAB-3.git
+[submodule "pd5216-DATAB-projekt"]
+	path = pd5216-DATAB-projekt
+	url = https://github.com/arturkwiek/pd5216-DATAB-projekt.git
+[submodule "pd5216-MDAP"]
+	path = pd5216-MDAP
+	url = https://github.com/arturkwiek/pd5216-MDAP.git
+[submodule "pd5216-projekt-CONT"]
+	path = pd5216-projekt-CONT
+	url = https://github.com/arturkwiek/pd5216-projekt-CONT.git
+[submodule "projektPythonAdv"]
+	path = projektPythonAdv
+	url = https://github.com/arturkwiek/projektPythonAdv.git

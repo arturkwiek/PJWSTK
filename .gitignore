@@ -1,1 +1,15 @@
+# Fork ćwiczeniowy GitHuba — nie nasza treść
 Hello-World/
+
+# Surowe dane i instalatory z przedmiotu S2 B (NGS): plik .sra, dwa fastq.gz
+# i instalator Miniforge3. Razem 317 MB, wszystko odtwarzalne:
+# dane z SRA przez `fasterq-dump SRR25629155`, Miniforge ze strony conda-forge.
+S2 B/
+
+# Środowiska i cache — gdyby kiedyś powstały w którymś z przedmiotów
+.venv/
+venv/
+__pycache__/
+.Rhistory
+.Rproj.user/
+.ipynb_checkpoints/

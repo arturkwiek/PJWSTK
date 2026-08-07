@@ -7,9 +7,6 @@
 [submodule "new_service"]
 	path = new_service
 	url = https://github.com/arturkwiek/new_service_PD5216.git
-[submodule "pd1234-DATAB-2"]
-	path = pd1234-DATAB-2
-	url = https://github.com/arturkwiek/pd1234-DATAB-2.git
 [submodule "pd5216_BSTS"]
 	path = pd5216_BSTS
 	url = https://github.com/arturkwiek/pd5216_BSTS.git
